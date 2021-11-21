@@ -19,3 +19,5 @@ net6.0
 
 # Credits
 [@ajgoldenwings](https://twitter.com/ajgoldenwings) - Anthony J. Pearson
+
+![Terminal](image.jpeg)
