@@ -1,5 +1,5 @@
 # Crypto-Fund-Simulator
-Just a small console app to see if you have enought capital to make purchases of computers to mine crypto. Not the best real world estimates because many things could happend to eat away at your profits. But cool to see what what it would take to purchase a computer ever X days and have net revenue.
+Just a small console app to see if you have enough capital to make purchases of computers to mine crypto. Not the best real world estimates because many things could happend to eat away at your profits. But cool to see what what it would take to purchase a computer ever X days and have net revenue.
 
 You can change the code to set the:
 - Average Miner Cost
